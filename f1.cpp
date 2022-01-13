@@ -1,3 +1,3 @@
 #include <iostream>
-int a = 300;
-int b = 200;
+int a = 30;
+int b = 20;
